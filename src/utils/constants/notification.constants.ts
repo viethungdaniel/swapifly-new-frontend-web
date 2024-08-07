@@ -1,0 +1,12 @@
+export const NOTIFICATION_TEXT_TYPE = "text";
+export const NOTIFICATION_URL_TYPE = "url";
+export const NOTIFICATION_RELATED_CONTENT_TYPE = "related-content";
+
+export const NOTIFICATION_RELATED_CONTENT_USER_RELATED_TYPE =
+  "user-profile-page";
+export const NOTIFICATION_RELATED_CONTENT_PRODUCT_RELATED_TYPE = "product-page";
+export const NOTIFICATION_RELATED_CONTENT_NEWS_ITEM_RELATED_TYPE = "news-page";
+export const NOTIFICATION_RELATED_CONTENT_HELP_CENTER_RELATED_TYPE =
+  "help-page";
+export const NOTIFICATION_RELATED_CONTENT_PRODUCTS_RELATED_TYPE =
+  "product-list-page";

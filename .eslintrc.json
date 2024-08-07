@@ -1,0 +1,10 @@
+{
+  "extends": "next/core-web-vitals",
+  "plugins": ["tss-unused-classes"],
+  "rules": {
+    "react-hooks/exhaustive-deps": "off",
+    "react/display-name": "off",
+    "tss-unused-classes/unused-classes": "off",
+    "@next/next/no-img-element": "off"
+  }
+}

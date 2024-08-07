@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
+<rect width="24" height="24" fill="rgba(0, 0, 0, 0.11)">
+</rect>
+<rect width="24" height="24" fill="url(#wave)" >
+   <animateTransform 
+   id="waveeffect1"
+             attributeName="transform"
+             type="translateX"
+             values="-24,0; 24,0;" dur="1.6s"
+            begin="0s;waveeffect2.end"/>
+  <animateTransform 
+   id="waveeffect2"
+             attributeName="transform"
+             type="translateX"
+             values="24,0; 48,0;" dur="0.5s"
+            begin="waveeffect1.end" />
+</rect>
+<defs>
+  <linearGradient id="wave" gradientTransform="rotate(90deg)">
+    <stop offset="0%" style="stop-color: transparent;" />
+    <stop offset="50%" style="stop-color:rgba(0, 0, 0, 0.04);" />
+    <stop offset="100%" style="stop-color: transparent;" />
+  </linearGradient>
+</defs>
+</svg>

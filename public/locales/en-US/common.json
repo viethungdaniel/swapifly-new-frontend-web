@@ -1,0 +1,1129 @@
+{
+  "learnMore": "Learn more",
+  "viewMore": "View more",
+  "skipAd": "Skip Ad",
+  "sponsorAd": "Sponsor Ad",
+  "advertisement": "Advertisement",
+
+  "localeTolMerchantLocation": "Locale to {{merchantLocation}}",
+  "hotPicks": "Hot picks",
+  "specialMerchant": "Special merchant",
+
+  "alertWebAppWeChatBindingConfirmationTitle": "The WeChat binding is not supported on the browser app",
+  "alertWebAppWeChatBindingConfirmationContent": "The browser app does not support the WeChat binding, please use the Swapifly app or the desktop browser for bind.",
+
+  "impressionPackageOrderPaymentResults": "Impression package order payment results",
+  "turnOnAiChat": "Turn on AI chat",
+  "turnOffAiChat": "Turn off AI chat",
+  "aiChatIsWorking": "AI chat is working",
+  "turnOnAIFor": "Turn on AI for",
+  "turnOffAIFor": "Turn off AI for",
+  "selectUser": "Select user",
+  "turnedOnSuccessfully": "Turned on successfully",
+  "turnedOffSuccessfully": "Turned off successfully",
+  "aiChatWillResumeAfterMinute": "AI Chat will resume after {{time}} min",
+  "minWithCount_one": "{{count, number}} min",
+  "minWithCount_other": "{{count, number}} mins",
+
+  "noProfileDescriptionYet": "No profile description yet",
+
+  "offerHasBeenDeclined": "The offer has been declined",
+  "reviewed": "Reviewed",
+  "offerHasBeenAccepted": "The offer has been accepted",
+  "archived": "Archived",
+  "underPurchase": "Under purchase",
+  "onSell": "On sell",
+  "custom": "Custom",
+  "male": "Male",
+  "female": "Female",
+  "nonBinary": "Non binary",
+  "notToSay": "Not to say",
+  "bindGoogle": "Bind Google",
+  "filters": "Filters",
+
+  "allFilters": "All filters",
+
+  "openAppConfirmationContent": "Do you want to open the app from this page?",
+
+  "openAppConfirmationTitle": "Open the app",
+
+  "productChatBlockedMessage": "You can no longer chat with or make offers to this user",
+
+  "reload": "Reload",
+
+  "userCountSearchResultForKeywordWithCount_one": "{{count, number}} search result for ‘{{keyword}}‘",
+  "userCountSearchResultForKeywordWithCount_other": "{{count, number}} search results for ‘{{keyword}}‘",
+
+  "searchingResultsForKeyword": "Searching results for ‘{{keyword}}‘",
+
+  "userSearchResultsForKeyword": "User search results for ‘{{keyword}}‘",
+
+  "fullUsernameContainsValidation": "Only contain letters (a-z), numbers (0-9). The separator is a period (.). Min 3 characters. Max 20 characters.",
+
+  "yourDotUsername": "your.username",
+
+  "yourPublicUsernameIsSameAsYourTimelineAddress": "Your public username is the same as your timeline address",
+
+  "username": "Username",
+
+  "changePhoto": "Change photo",
+
+  "personalProfileMaxCharacterWithCount_one": "Personal profile must be no longer than {{count, number}} character",
+  "personalProfileMaxCharacterWithCount_other": "Personal profile must be no longer than {{count, number}} characters",
+
+  "usernameMaxCharacterWithCount_one": "Username must be no longer than {{count, number}} character",
+  "usernameMaxCharacterWithCount_other": "Username must be no longer than {{count, number}} characters",
+
+  "usernameMinCharacterWithCount_one": "Username must be at least {{count, number}} character",
+  "usernameMinCharacterWithCount_other": "Username must be at least {{count, number}} characters",
+
+  "usernameContainsRules": "Username contains only letters (a-z) and numbers (0-9). The separator is a period (.)",
+
+  "usernameIsRequired": "Username is required",
+
+  "displayNameMaxCharacterWithCount_one": "Display name must be no longer than {{count, number}} character",
+  "displayNameMaxCharacterWithCount_other": "Display name must be no longer than {{count, number}} characters",
+
+  "displayNameMinCharacterWithCount_one": "Display name must be at least {{count, number}} character",
+  "displayNameMinCharacterWithCount_other": "Display name must be at least {{count, number}} characters",
+
+  "displayNameIsRequired": "Display name is required",
+
+  "birthday": "Birthday",
+
+  "gender": "Gender",
+
+  "personalDetails": "Personal details",
+
+  "personalProfile": "Personal profile",
+
+  "displayName": "Display name",
+
+  "save": "Save",
+
+  "updatedSuccessfully": "Updated successfully",
+
+  "submitting": "submitting",
+
+  "confirmNewPasswordMustMatch": "Confirm new password must match",
+
+  "confirmMewPasswordIsRequired": "Confirm new password is required",
+
+  "newPasswordMinCharacterWithCount_one": "New password must be at least {{count, number}} character",
+  "newPasswordMinCharacterWithCount_other": "New password must be at least {{count, number}} characters",
+
+  "newPasswordMaxCharacterWithCount_one": "New password must be no longer than {{count, number}} character",
+  "newPasswordMaxCharacterWithCount_other": "New password must be no longer than {{count, number}} characters",
+
+  "newPasswordIsRequired": "New password is required",
+
+  "currentPasswordIsRequired": "Current password is required",
+
+  "confirmNewPassword": "Confirm new password",
+
+  "newPassword": "New password",
+
+  "currentPassword": "Current password",
+
+  "profileBanner": "Profile banner",
+
+  "updatedBannerSuccessfully": "Updated banner successfully",
+
+  "changeBannerConfirmationContent": "Are you sure you want to change banner?",
+
+  "changeBannerConfirmationTitle": "Change banner",
+
+  "copiedToClipboard": "Copied to clipboard",
+
+  "followingWithCount": "{{count, number}} following",
+
+  "followerWithCount_one": "{{count, number}} follower",
+  "followerWithCount_other": "{{count, number}} followers",
+
+  "existingBRVerified": "Existing BR verified",
+
+  "onlineShopVerified": "Online shop verified",
+
+  "physicalAddressVerified": "Physical address verified",
+
+  "merchantNotYetVerified": "Merchant not yet verified",
+
+  "merchantVerified": "Merchant verified",
+
+  "notYetUploaded": "Not yet uploaded",
+
+  "website": "Website",
+
+  "notFilledIn": "Not filled in",
+
+  "rejected": "Rejected",
+
+  "notYetVerified": "Not yet verified",
+
+  "verificationStatus": "Verification status",
+
+  "lowestScore": "Lowest score",
+
+  "highestScore": "Highest score",
+
+  "oldest": "Oldest",
+
+  "latest": "Latest",
+
+  "sortBy": "Sort by",
+
+  "fromSeller": "From seller",
+
+  "fromBuyer": "From buyer",
+
+  "unlinkWeChatSuccessfully": "Unlink WeChat successfully",
+
+  "unlinkWeChatConfirmationContent": "Are you sure you want to unlink WeChat?",
+
+  "unlinkWeChatConfirmationTitle": "Unlink WeChat",
+
+  "bindWeChat": "Bind WeChat",
+
+  "unlinkAppleSuccessfully": "Unlink Apple successfully",
+
+  "unlinkAppleConfirmationContent": "Are you sure you want to unlink Apple?",
+
+  "unlinkAppleConfirmationTitle": "Unlink Apple",
+
+  "alertAppleBindingConfirmationContent": "The website does not support the Apple binding, please use the Apple store's the Swapifly app for bind.",
+
+  "alertAppleBindingConfirmationTitle": "The Apple binding is not supported",
+
+  "bindFacebook": "Bind Facebook",
+
+  "unlinkFacebookSuccessfully": "Unlink Facebook successfully",
+
+  "unlinkFacebookConfirmationContent": "Are you sure you want to unlink Facebook?",
+
+  "unlinkFacebookConfirmationTitle": "Unlink Facebook",
+
+  "bindFacebookSuccessfully": "Bind Facebook successfully",
+
+  "unlink": "Unlink",
+
+  "unlinkGoogleSuccessfully": "Unlink Google successfully",
+
+  "unlinkGoogleConfirmationContent": "Are you sure you want to unlink Google?",
+
+  "unlinkGoogleConfirmationTitle": "Unlink Google",
+
+  "bindMediaSocialConfirmationContent": "The website will need access to your public information in order to bind your account. We will never publish any content or disclose any information without your authorization.",
+
+  "bindGoogleSuccessfully": "Bind Google successfully",
+
+  "followed": "Followed",
+
+  "follow": "Follow",
+
+  "bindSocialMedia": "Bind Social Media",
+
+  "sellerDetails": "Seller details",
+
+  "reviews": "Reviews",
+
+  "listing": "Listing",
+
+  "productCountResultForProductCategoryInRegionWithCount_one": "{{count, number}} results for {{productCategoryName}} category in {{regionName}}",
+  "productCountResultForProductCategoryInRegionWithCount_other": "{{count, number}} results for {{productCategoryName}} category in {{regionName}}",
+
+  "similarListing": "Similar listing",
+
+  "deleteItem": "Delete item",
+
+  "yourListingHasBeenCountViewedInLastDayWithCount": "Your listing has been viewed {{timesCount, number}} times in the last {{daysCount, number}} days",
+  "yourListingHasBeenCountViewedInLastDayWithCount_timeWithCountOnOneDay_one": "Your listing has been viewed {{count, number}} time in the last 1 day",
+  "yourListingHasBeenCountViewedInLastDayWithCount_timeWithCountOnOneDay_other": "Your listing has been viewed {{count, number}} times in the last 1 day",
+  "yourListingHasBeenCountViewedInLastDayWithCount_dayWithCountOnOneTime_one": "Your listing has been viewed 1 time in the last {{count, number}} day",
+  "yourListingHasBeenCountViewedInLastDayWithCount_dayWithCountOnOneTime_other": "Your listing has been viewed 1 time in the last {{count, number}} days",
+
+  "viewConversation": "View conversation",
+
+  "imageWithCount_one": "{{count, number}} image",
+  "imageWithCount_other": "{{count, number}} images",
+
+  "videoWithCount_one": "{{count, number}} video",
+  "videoWithCount_other": "{{count, number}} videos",
+
+  "report": "Report",
+
+  "like": "Like",
+
+  "reviewWithCount_one": "{{count, number}} review",
+  "reviewWithCount_other": "{{count, number}} reviews",
+
+  "joinedDate": "Joined {{date}}",
+
+  "highResponseRate": "High response rate",
+
+  "goodResponseRate": "Good response rate",
+
+  "responseInfrequently": "Response infrequently",
+
+  "verified": "Verified",
+
+  "noSupport": "No support",
+
+  "likeWithCount_one": "{{count, number}} like",
+  "likeWithCount_other": "{{count, number}} likes",
+
+  "chat": "Chat",
+
+  "deleteProductConfirmationContent": "Are you sure you want to delete the product?",
+
+  "deleteProductConfirmationTitle": "Delete product",
+
+  "editItem": "Edit Item",
+
+  "savedSuccessfully": "Saved successfully",
+
+  "updatedNewProductConfirmationContent": "Are you sure you want to update item?",
+
+  "updatedNewProductConfirmationTitle": "Update item",
+
+  "postedSuccessfully": "Posted successfully",
+
+  "savedNewProductConfirmationContent": "Are you sure you want to post new item?",
+
+  "savedNewProductConfirmationTitle": "Post new item",
+
+  "saving": "Saving",
+
+  "askSaveDraftBeforeLeavePage": "Would you like to save the draft before leaving the page?",
+
+  "next": "Next",
+
+  "untitled": "Untitled",
+
+  "draft": "Draft",
+
+  "youDontHaveAnySavedDrafts": "You don’t have any saved drafts",
+
+  "deletedSuccessfully": "Deleted successfully",
+
+  "deleteDraftConfirmationContent": "Are you sure you want to delete draft “<p1>{{productDraftTitle}}</p1>“?",
+
+  "deleteDraftConfirmationTitle": "Delete draft",
+
+  "yourDraft": "Your draft",
+
+  "whatWouldYouLikeToSellToday": "What would you like to sell today?",
+
+  "productCountSearchResultsInRegionWithCount_one": "{{count, number}} search result in {{regionName}}",
+  "productCountSearchResultsInRegionWithCount_other": "{{count, number}} search results in {{regionName}}",
+
+  "productCountSearchResultsForKeywordInRegionWithCount_one": "{{count, number}} search result for “{{keyword}}“ in {{regionName}}",
+  "productCountSearchResultsForKeywordInRegionWithCount_other": "{{count, number}} search results for “{{keyword}}“ in {{regionName}}",
+
+  "searchResultsForKeywordInRegion": "Search results for “{{keyword}}“ in {{regionName}}",
+
+  "searchResultsInRegion": "Search results in {{regionName}}",
+
+  "productCountRecommendedResultsInRegionWithCount_one": "{{count, number}} recommended result in {{regionName}}",
+  "productCountRecommendedResultsInRegionWithCount_other": "{{count, number}} recommended results in {{regionName}}",
+
+  "details": "Details",
+
+  "goToHome": "Go to Home",
+
+  "readAll": "Read all",
+
+  "readAllConfirmationContent": "Are you sure you want to mark all as read?",
+
+  "readAllConfirmationTitle": "Read all",
+
+  "nextArticle": "Next article",
+
+  "previousArticle": "Previous article",
+
+  "more": "More",
+
+  "noRecentNewsYet": "No the recent news yet",
+
+  "recentNews": "Recent news",
+
+  "select": "Select",
+
+  "declined": "Declined",
+
+  "accepted": "Accepted",
+
+  "archive": "Archive",
+
+  "unarchive": "Unarchive",
+
+  "sold": "Sold",
+
+  "onlineMonthAgoWithCount_one": "Online {{count, number}} month ago",
+  "onlineMonthAgoWithCount_other": "Online {{count, number}} months ago",
+
+  "onlineWeekAgoWithCount_one": "Online {{count, number}} week ago",
+  "onlineWeekAgoWithCount_other": "Online {{count, number}} weeks ago",
+
+  "onlineDayAgoWithCount_one": "Online {{count, number}} day ago",
+  "onlineDayAgoWithCount_other": "Online {{count, number}} days ago",
+
+  "onlineHourAgoWithCount_one": "Online {{count, number}} hour ago",
+  "onlineHourAgoWithCount_other": "Online {{count, number}} hours ago",
+
+  "onlineMinuteAgoWithCount_one": "Online {{count, number}} minute ago",
+  "onlineMinuteAgoWithCount_other": "Online {{count, number}} minutes ago",
+
+  "markSold": "Mark sold",
+
+  "markedSuccessfullySold": "Marked successfully sold",
+
+  "markSoldConfirmationContent": "Are you sure you want to mark the product as sold?",
+
+  "markSoldConfirmationTitle": "Mark sold",
+
+  "madeOfferPrice": "Made offer {{currency}} {{price}}",
+
+  "decline": "Decline",
+
+  "accept": "Accept",
+
+  "offeredYouPrice": "Offered you {{currency}} {{price}}",
+
+  "reportUser": "Report user",
+
+  "deleteInbox": "Delete inbox",
+
+  "blockUser": "Block user",
+
+  "unblockUser": "Unblock user",
+
+  "archiveMessage": "Archive message",
+
+  "unarchiveMessage": "Unarchive message",
+
+  "delivered": "Delivered",
+
+  "seen": "Seen",
+
+  "failedToSendMessage": "Failed to send message",
+
+  "cancelOffer": "Cancel offer",
+
+  "declineOffer": "Decline offer",
+
+  "acceptOffer": "Accept offer",
+
+  "editOfferWithPrice": "Edit offer\n{{currency}} {{price}}",
+
+  "offerWithPrice": "Offer\n{{currency}} {{price}}",
+
+  "yesterday": "Yesterday",
+
+  "today": "Today",
+
+  "swapiflyAIIsThinking": "Swapifly AI is  thinking",
+
+  "swapiflyAIIsServingYou": "Swapifly AI is serving you",
+
+  "sellerOffNow": "Seller off now",
+
+  "inboxThreadEmptyContent": "Select a conversation and chat away",
+
+  "inboxThreadEmptyTitle": "Pick up where you left off",
+
+  "youCantReplayConversation": "You can’t reply this conversation",
+
+  "declineOfferConfirmationContent": "Are you sure you want to decline offer?",
+
+  "declineOfferConfirmationTitle": "Decline offer",
+
+  "acceptOfferConfirmationContent": "Are you sure you want to accept offer?",
+
+  "acceptOfferConfirmationTitle": "Accept offer",
+
+  "cancelOfferConfirmationContent": "Are you sure you want to cancel offer?",
+
+  "cancelOfferConfirmationTitle": "Cancel offer",
+
+  "unblockedUserConfirmationContent": "Are you sure you want to un-block?",
+
+  "unblockedUserConfirmationTitle": "Un-block user",
+
+  "blockedUserConfirmationContent": "Are you sure you want to block?",
+
+  "blockedUserConfirmationTitle": "Block user",
+
+  "deleteInboxConfirmationContent": "Are you sure you want to delete inbox?",
+
+  "deleteInboxConfirmationTitle": "Delete inbox",
+
+  "acceptedSuccessfully": "Accepted successfully",
+
+  "declinedSuccessfully": "Declined successfully",
+
+  "cancelledSuccessfully": "Cancelled successfully",
+
+  "blockedUserSuccessfully": "Blocked user successfully",
+
+  "archivedSuccessfully": "Archived successfully",
+
+  "seeAll": "See all",
+
+  "noSameTopicYet": "No the same topic yet",
+
+  "articlesOnSameTopic": "Articles on the same topic",
+
+  "articles": "Articles",
+
+  "countSearchResultsForKeywordWithCount_one": "{{count, number}} search result for “{{keyword}}”",
+  "countSearchResultsForKeywordWithCount_other": "{{count, number}} search results for “{{keyword}}”",
+
+  "searchResultsForKeyword": "Search results for “{{keyword}}”",
+
+  "frequentAskedQuestions": "Frequent asked questions",
+
+  "announcement": "Announcement",
+
+  "topic": "Topic",
+
+  "loadMore": "Load more",
+
+  "productCountBookmarkResultsInRegionWithCount_one": "{{count, number}} bookmark result in {{regionName}}",
+  "productCountBookmarkResultsInRegionWithCount_other": "{{count, number}} bookmark results in {{regionName}}",
+
+  "goBackHome": "Go back Home",
+
+  "pageNotFoundContent": "We’re sorry, the page you requested could not be found.\nPlease go back to the homepage",
+
+  "pageNotFound": "Page not found",
+
+  "boundWeChatSuccessfully": "Bound WeChat successfully",
+
+  "blockedCookieWarning": "Your browser has cookies disabled. Make sure your cookies are enabled to best use Swapifly",
+
+  "sessionExpired": "Session expired",
+
+  "userSearch": "User search",
+
+  "termOfService": "Term of service",
+
+  "newItem": "New item",
+
+  "sell": "Sell",
+
+  "recommended": "Recommended",
+
+  "notice": "Notice",
+
+  "searchNews": "Search news",
+
+  "searchHelpCenter": "Search the help center",
+
+  "image": "Image",
+
+  "homepage": "Homepage",
+
+  "leavePageConfirmationContent": "Changes you made may not be saved",
+
+  "leavePageConfirmationTitle": "Leave page",
+
+  "pleaseLoginOrRegisterFirst": "Please login/register first",
+
+  "termsOfService": "Terms of service",
+
+  "emailMaxCharacterWithCount_one": "Email must be no longer than {{count, number}} character",
+  "emailMaxCharacterWithCount_other": "Email must be no longer than {{count, number}} characters",
+
+  "registerTermPolicySuggest": "By signing up, you agree to our <p1>terms of service</p1> and <p2>privacy policy</p2>",
+
+  "hasAccountSuggest": "If you already have an account, <p1>login directly</p1>",
+
+  "promotionalOffersFromPartnersOfSwapifly": "Promotional offers from partners of Swapifly",
+
+  "latestTrendsAndUpdatesFromSwapifly": "Latest trends and updates from Swapifly",
+
+  "registerCaption": "We hope to provide you a safe environment to trade, so we use email account to verify your identity",
+
+  "register": "Register",
+
+  "noAccountYetSuggest": "No account yet? <p1>Click to register</p1>",
+
+  "Or": "Or",
+
+  "forgotPassword": "Forgot password",
+
+  "noOptions": "No options",
+
+  "selectPreferences": "Select Preferences",
+
+  "resetSuccessfully": "Reset successfully",
+
+  "passwordIsRequired": "Password is required",
+
+  "password": "Password",
+
+  "verifyByEmail": "Verify by Email",
+
+  "verifyByPhoneNumber": "Verify by phone number",
+
+  "resetPassword": "Reset password",
+
+  "continueWithWeChat": "Continue with WeChat",
+
+  "continueWithGoogle": "Continue with Google",
+
+  "continueWithFacebook": "Continue with Facebook",
+
+  "loggedSuccessfully": "Logged successfully",
+
+  "registerNow": "Register now",
+
+  "newUserConfirmationContent": "You’re new to Swapifly, please sign up with email to enjoy the Swapifly service",
+
+  "weekdays": "Weekdays",
+
+  "loading": "Loading",
+
+  "aiSsProvidedBySwapiflyRecommendedDescription": "It is recommended to explain the specifications, purchase time and other information",
+
+  "aiSsProvidedBySwapifly": "AI is provided by Swapifly",
+
+  "itemDescription": "Item description",
+
+  "selectedAIStylesName": "Selected: {{aiStylesName}}",
+
+  "pleaseEnterItemName": "Please enter the item name",
+
+  "selectStyle": "Select style",
+
+  "specifyDay": "Specify day",
+
+  "mailNoteIsRequired": "Additional mailing costs or options are required",
+
+  "selectedLocationMinNumberCountWithCount": "Location must select at least {{count, number}}",
+
+  "endTimeMustBeGreaterThanStartTime": "End time must be greater than start time",
+
+  "endTimeIsRequired": "End time is required",
+
+  "startTimeIsRequired": "Start time is required",
+
+  "selectedWeekdayMinWeekdayCountWithCount_one": "Weekday must select at least {{count, number}} day",
+  "selectedWeekdayMinWeekdayCountWithCount_other": "Weekday must select at least {{count, number}} days",
+
+  "selectedSpecifyDayMinDayCountWithCount_one": "Specific day must select at least {{count, number}} day",
+  "selectedSpecifyDayMinDayCountWithCount_other": "Specific day must select at least {{count, number}} days",
+
+  "itemDescriptionIsRequired": "Item description is required",
+
+  "regionIsRequired": "Country/Area is required",
+
+  "conditionIsRequired": "Condition is required",
+
+  "itemNameIsRequired": "Item name is required",
+
+  "categoryIsRequired": "Category is required",
+
+  "youtubeLinkIsInvalid": "Youtube link is invalid",
+
+  "photoMinNumberWithCount_one": "Please upload at least {{count, number}} photo",
+  "photoMinNumberWithCount_other": "Please upload at least {{count, number}} photos",
+
+  "mailNotePlaceholder": "Are there additional mailing costs or options?",
+
+  "addLocation": "Add location",
+
+  "dealMethod": "Deal Method",
+
+  "aiChattingStyle": "AI chatting style",
+
+  "endTime": "End time",
+
+  "startTime": "Start time",
+
+  "setDateOrTime": "Set date/time",
+
+  "autoReply": "Auto reply",
+
+  "chatSetting": "Chat setting",
+
+  "countryOrArea": "Country/Area",
+
+  "aboutItem": "About the item",
+
+  "itemName": "Item name",
+
+  "pleaseSelect": "Please select",
+
+  "preview": "Preview",
+
+  "youtubeLink": "Youtube link",
+
+  "cover": "Cover",
+
+  "specifyDayAndTime": "Specify day and time",
+
+  "weekdayAndTime": "Weekday and time",
+
+  "anyTime": "Any time",
+
+  "numberToAutoReplyOptionAI": "On behalf yourself to reply via Swapifly AI",
+
+  "numberToAutoReplyOptionManual": "You will reply buyer message manually",
+
+  "yes": "Yes",
+
+  "no": "No",
+
+  "postNow": "Post now",
+
+  "location": "Location",
+
+  "language": "Language",
+
+  "regionAndLanguage": "Region & Language",
+
+  "promotionCodeYouEnteredHasBeenSuccessfullyApplied": "The promo code you entered has been successfully applied.",
+
+  "promotionCode": "Promotion code",
+
+  "promotionCodeMinCharacterWithCount_one": "Promotion code must be at least {{count}} character",
+  "promotionCodeMinCharacterWithCount_other": "Promotion code must be at least {{count}} characters",
+
+  "promotionCodeOnlyAcceptsAlphabetsOrNumbers": "Promotion code only accepts alphabets or numbers",
+
+  "pleaseSelectImpressionPackage": "Please select the impression package",
+
+  "impressionWithCountOnDayWithCount": "$t(impressionWithCount, {\"count\": {{impressionWithCount}} })/$t(dayWithCount, {\"count\": {{dayWithCount}} })",
+
+  "total": "Total",
+
+  "discount": "Discount",
+
+  "subtotal": "Subtotal",
+
+  "payConfirmationContent": "Are you sure you want to pay for the $t(impressionWithCount,{ \"count\": {{impressionWithCount}} })/$t(dayWithCount,{ \"count\": {{dayWithCount}} }) package?",
+
+  "purchaseVisitsPayCaption": "Select the amount of impressions you want to buy for that item",
+
+  "pay": "Pay",
+
+  "numberDaysPerformanceAnalysisWithCount_one": "{{count, number}} day performance analysis",
+  "numberDaysPerformanceAnalysisWithCount_other": "{{count, number}} days performance analysis",
+
+  "publishedOnDate": "Published on {{date}}",
+
+  "itemReport": "Item report",
+
+  "iUnderstand": "I understand",
+
+  "contactCS": "Contact CS",
+
+  "aiRating": "AI Rating",
+
+  "click": "Click",
+
+  "impression": "impression",
+
+  "photo": "Photo",
+
+  "reliability": "Reliability",
+
+  "traffic": "Traffic",
+
+  "requirement": "Requirement",
+
+  "description": "Description",
+
+  "pricing": "Pricing",
+
+  "yourProduct": "Your product",
+
+  "overallSellingProduct": "Overall selling product",
+
+  "numberOfInboxMessageOffersYouReceived": "The number of inbox message offers you received",
+
+  "numberOfInboxMessage": "Number of inbox message",
+
+  "numberOfTimesUserClickedToViewItem": "The number of times a user clicked to view this item",
+
+  "numberOfTimes": "Number of times",
+
+  "numberOfImpressionsItemReceived": "The number of impressions this item received",
+
+  "impressions": "Impressions",
+
+  "paidImpressions": "Paid impressions",
+
+  "maximum": "Maximum",
+
+  "minimum": "Minimum",
+
+  "maxPriceMustBeGreaterThanOrEqualToMinPrice": "The maximum price must be greater than or equal to the minimum price",
+
+  "maxPriceIsRequired": "The maximum price is required",
+
+  "minPriceIsRequired": "The minimum price is required",
+
+  "price": "Price",
+
+  "reset": "Reset",
+
+  "byPostAndCourier": "By post & courier",
+
+  "tradeInPerson": "Trade in person",
+
+  "brand": "Brand",
+
+  "condition": "Condition",
+
+  "sort": "Sort",
+
+  "noResults": "No results",
+
+  "all": "All",
+
+  "categories": "Categories",
+
+  "purchaseVisits": "Purchase visits",
+
+  "reviewResults": "Review results",
+
+  "verificationCodeIsIncorrect": "Verification code is incorrect",
+
+  "phoneNumberIsInvalid": "Phone number is invalid",
+
+  "phoneNumberIsRequired": "Phone number is required",
+
+  "phoneVerification": "Phone verification",
+
+  "phoneNumber": "Phone number",
+
+  "phoneVerificationSuccessful": "Phone verification successful",
+
+  "reOfferConfirmationTitle": "Re-offer new price",
+  "reOfferConfirmationContent": "Are you sure you want to re-offer the new price?",
+
+  "priceMinNumberWithCount": "Price must be at least {{count, number}}",
+
+  "priceMaxNumberWithCount": "Price must be no longer than {{count, number}}",
+
+  "priceIsRequired": "Price is required",
+
+  "updatedOfferSuccessfully": "Updated offer successfully",
+
+  "createdOfferSuccessfully": "Created offer successfully",
+
+  "editOffer": "Edit offer",
+
+  "offer": "Offer",
+
+  "update": "Update",
+
+  "notification": "Notification",
+
+  "clear": "Clear",
+
+  "recent": "Recent",
+
+  "searchItems": "Search items",
+
+  "allCategories": "All categories",
+
+  "searchUserWithKeyword": "Search ‘{{keyword}}’ user instead",
+
+  "category": "Category",
+
+  "secondTradeWithZeroCommission": "Second trade with 0 commission",
+
+  "loginOrRegister": "Login / Register",
+
+  "myProfile": "My profile",
+
+  "logoutConfirmationTitle": "Are you sure you want to logout?",
+
+  "logout": "Logout",
+
+  "login": "Login",
+
+  "reviewDetailsIsRequired": "Review details is required",
+
+  "reviewDetailsMaxCharacterWithCount_one": "Review details must be no longer than {{count, number}} character",
+  "reviewDetailsMaxCharacterWithCount_other": "Review details must be no longer than {{count, number}} characters",
+
+  "reviewDetailsMinCharacterWithCount_one": "Review details must be at least {{count, number}} character",
+  "reviewDetailsMinCharacterWithCount_other": "Review details must be at least {{count, number}} characters",
+
+  "scoreIsRequired": "Score is required",
+
+  "noResponseServerErrorMessage": "Something went wrong, please try again or refresh the page",
+
+  "submittedReviewsSuccessfully": "Submitted reviews successfully",
+
+  "reviewDetailsTextHelper": "Please complete the review within 15 days of the transaction",
+
+  "reviewDetailsPlaceholder": "Please enter your review",
+
+  "reviewDetails": "Review details",
+
+  "score": "Score",
+
+  "submitAReview": "Submit a review",
+
+  "confirmPasswordMustMatch": "Confirm password must match",
+
+  "confirmPasswordIsRequired": "Confirm password is required",
+
+  "passwordMinCharacterWithCount_one": "Password must be at least {{count, number}} character",
+  "passwordMinCharacterWithCount_other": "Password must be at least {{count, number}} characters",
+
+  "passwordMaxCharacterWithCount_one": "Password must be no longer than {{count, number}} character",
+  "passwordMaxCharacterWithCount_other": "Password must be no longer than {{count, number}} characters",
+
+  "verificationCodeIsRequired": "Verification code is required",
+
+  "emailIsRequired": "Email is required",
+
+  "emailIsInvalid": "Email is invalid",
+
+  "confirmPasswordRangeWords": "Confirm password ({{min}}-{{max}} words)",
+
+  "confirmPassword": "Confirm password",
+
+  "passwordRangeWords": "Password ({{min}}-{{max}} words)",
+
+  "verificationCode": "Verification code",
+
+  "emailVerification": "Email verification",
+
+  "emailVerificationSuccess": "Email verification successful",
+
+  "open": "open",
+
+  "smartAppBannerContent": "Unlock exclusive features when you download the Swapifly app today!",
+
+  "smartAppBannerDownloadAppTitle": "Download the app now!",
+
+  "orCopySharedLink": "or copy link",
+
+  "shareThisLinkVia": "Share this link via",
+
+  "share": "Share",
+
+  "shareMoreAnotherApp": "More",
+
+  "copy": "Copy",
+
+  "privacyPolicy": "Privacy policy",
+
+  "termsAndConditions": "Terms and conditions",
+
+  "changePreferences": "Change preferences",
+
+  "changePassword": "Change password",
+
+  "editProfile": "Edit profile",
+
+  "setting": "Setting",
+
+  "businessCertificationIsRequired": "Business certification is required",
+
+  "urlIsInvalid": "URL is invalid",
+
+  "websiteIsRequired": "Website is required",
+
+  "contactNumberIsInvalid": "Contact number is invalid",
+
+  "contactNumberIsRequired": "Contact number is required",
+
+  "sellerNameIsRequired": "Seller name is required",
+
+  "uploadingFileInfoMessage": "Please wait for the file to finish uploading",
+
+  "businessCertificationHelperText2": "Business registration fee: <p1>Free</p1>",
+
+  "businessCertificationHelperText1": "Please upload copy of business certification",
+
+  "businessCertification": "Business certification",
+
+  "contactNumber": "Contact number",
+
+  "sellerAddress": "Seller address",
+
+  "sellerName": "Seller name",
+
+  "verificationRequestFormSubTitle": "Apply to become a registered business seller",
+
+  "verificationRequest": "Verification request",
+
+  "submittedSellerVerificationRequestFormSuccessMessage": "The form has been submitted. Please wait for the verification result.",
+
+  "submissionSuccess": "Submission success",
+
+  "readMore": "Read more",
+
+  "readLess": "Read less",
+
+  "reasonIsRequired": "Reason is required",
+
+  "reasonMaxCharacterWithCount_one": "Reason must be no longer than {{count, number}} character",
+  "reasonMaxCharacterWithCount_other": "Reason must be no longer than {{count, number}} characters",
+
+  "reasonMinCharacterWithCount_one": "Reason must be at least {{count, number}} character",
+  "reasonMinCharacterWithCount_other": "Reason must be at least {{count, number}} characters",
+
+  "contactInformationMaxCharacterWithCount_one": "Contact information must be no longer than {{max, count}} character",
+  "contactInformationMaxCharacterWithCount_other": "Contact information must be no longer than {{max, count}} characters",
+
+  "contactInformationMinCharacterWithCount_one": "Contact information must be at least {{count, number}} character",
+  "contactInformationMinCharacterWithCount_other": "Contact information must be at least {{count, number}} characters",
+
+  "contactInformationIsRequired": "Contact information is required",
+
+  "reportedSuccessfully": "Reported successfully",
+
+  "pending": "Pending",
+
+  "reasonReminderPlaceholder": "Please describe the reason for your report",
+
+  "reason": "Reason",
+
+  "contactInformationReminderPlaceholder": "Please leave your contact information",
+
+  "contactInformation": "Contact information",
+
+  "reportListing": "Report listing",
+
+  "submit": "Submit",
+
+  "searchForNews": "Search for news",
+
+  "portalHelpCenterHeaderTitle": "Hello, may I help you?",
+
+  "searchForArticles": "Search for articles",
+
+  "registeredPhoneNumberErrorMessage": "Phone number is registered",
+
+  "sentSuccessfully": "Sent successfully",
+
+  "search": "Search",
+
+  "noSearchResultsCaption": "Your search ‘{{keyword}}’ did not match. Try another search, check if the spelling is correct or try more general keywords.",
+
+  "noSearchResults": "No search results",
+
+  "noNoticesYet": "No notices yet",
+
+  "noReviewsYet": "No reviews yet",
+
+  "youHaveNoChatsHere": "You have no chats here",
+
+  "noListingsYet": "No listings yet",
+
+  "news": "News",
+
+  "helpCenter": "Help center",
+
+  "followUs": "Follow us",
+
+  "home": "Home",
+
+  "bookmark": "Bookmark",
+
+  "inbox": "Inbox",
+
+  "account": "Account",
+
+  "failedImpressionPackageOrderPaymentSubTitle": "Failure to complete payment",
+
+  "failedImpressionPackageOrderPaymentTitle": "Payment failed",
+
+  "done": "Done",
+
+  "succeededImpressionPackageOrderPaymentCaption": "*If you have any questions, please click your item page’s button “<p1>Review results</p1>“ to contact us",
+
+  "succeededImpressionPackageOrderPaymentSubTitle": "Your chosen number of impressions has been successfully setup to your item and will complete deliver within the next few days. Please check if you will find “Recommended items” label at the upper left of your item, this implies that the Purchase Visits is effective.",
+
+  "succeededImpressionPackageOrderPaymentTitle": "Thank you for choosing Swapifly’s Purchase Visits!",
+
+  "delete": "Delete",
+
+  "moveRight": "Move right",
+
+  "moveLeft": "Move left",
+
+  "failedUploadFileNameErrorMessage": "{{fileName}} uploads failed",
+
+  "uploadedFileMaxSizeErrorMessage_one": "{{fileName}} exceeds the allowed {{fileMaxSize, number}}MB",
+  "uploadedFileMaxSizeErrorMessage_other": "{{fileName}} exceed the allowed {{fileMaxSize, number}}MB",
+
+  "limitedWebAppCurYear": "© {{curYear}} Swapifly limited",
+
+  "apply": "Apply",
+
+  "reGenerate": "Re-generate",
+
+  "selectAIStyle": "Select AI style",
+
+  "cancel": "Cancel",
+
+  "ok": "OK",
+
+  "cookieAdvantageMessage": "This website uses cookies to improve your website experience. By continuing to browse, you are agreeing to our <a1>Terms of Service</a1> and <a2>Privacy Policy</a2>.",
+
+  "agree": "Agree",
+
+  "resendInSecond": "Resend in {{count}}s",
+
+  "sending": "Sending",
+
+  "verification": "Verification",
+
+  "internalServerError": "Internal server error",
+  "backToHome": "Back to Home",
+
+  "selectOrDragVideo": "<p1>Select video</p1> or drag video here",
+  "selectOrDragPhoto": "<p1>Select photo</p1> or drag photo here",
+  "selectOrDragFile": "<p1>Select file</p1> or drag file here",
+
+  "uploadedFileMaxCountErrorMessage": "The number of files exceeds the maximum allowed",
+
+  "uploadVideoMaxCountWithCount_one": "Upload max. {{count, number}} video",
+  "uploadVideoMaxCountWithCount_other": "Upload max. {{count, number}} videos",
+
+  "uploadPhotoMaxCountWithCount_one": "Upload max. {{count, number}} photo",
+  "uploadPhotoMaxCountWithCount_other": "Upload max. {{count, number}} photos",
+
+  "uploadFileMaxCountWithCount_one": "Upload max. {{count, number}} video",
+  "uploadFileMaxCountWithCount_other": "Upload max. {{count, number}} videos",
+
+  "invalidObjectMessage_one": "{{object}} is invalid",
+  "invalidObjectMessage_other": "{{object}} are invalid",
+
+  "monthWithCount_one": "{{count, number}} month",
+  "monthWithCount_other": "{{count, number}} months",
+
+  "weekWithCount_one": "{{count, number}} week",
+  "weekWithCount_other": "{{count, number}} weeks",
+
+  "dayWithCount_one": "{{count, number}} day",
+  "dayWithCount_other": "{{count, number}} days",
+
+  "minuteWithCount_one": "{{count, number}} minute",
+  "minuteWithCount_other": "{{count, number}} minutes",
+
+  "hourWithCount_one": "{{count, number}} hour",
+  "hourWithCount_other": "{{count, number}} hours",
+
+  "locationWithCount_one": "{{count, number}} location",
+  "locationWithCount_other": "{{count, number}} locations",
+
+  "photoWithCount_one": "{{count, number}} photo",
+  "photoWithCount_other": "{{count, number}} photos",
+
+  "impressionWithCount_one": "{{count, number}} impression",
+  "impressionWithCount_other": "{{count, number}} impressions",
+
+  "characterWithCount_one": "{{count, number}} character",
+  "characterWithCount_other": "{{count, number}} characters"
+}

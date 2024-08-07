@@ -1,0 +1,17 @@
+{
+ "applinks": {
+   "apps": [
+    
+   ],
+   "details": [
+     {
+       "appID": "V8B68SSKSY.com.swapifly.app",
+       "paths": [
+         "*",
+         "/page/product/*",
+         "/page/user/*"
+       ]
+     }
+   ]
+ }
+}

@@ -1,0 +1,63 @@
+export type InboxThreadMessageAddEventData = {
+  b_online?: BooleanNumber;
+  block?: BooleanNumber;
+  c_type?: number;
+  chat_id?: number;
+  command?: string;
+  content?: string;
+  create_time?: number;
+  currency: string;
+  fe_id: string;
+  from_type?: number;
+  message_id: number;
+  isread?: number;
+  msg: string;
+  price?: number;
+  receiver_block?: BooleanNumber;
+  receiver_delete?: BooleanNumber;
+  receiver_id?: number;
+  s_online?: BooleanNumber;
+  sender_block?: BooleanNumber;
+  sender_delete?: BooleanNumber;
+  sender_id?: number;
+  thread_id?: number;
+  thread_object?: {
+    avatar: string;
+    currency: string;
+    latest_time: number;
+    latest_type: number;
+    new_text: {
+      c_type: number;
+      content: string;
+      isread: BooleanNumber;
+      type: number;
+    };
+    nickname: string;
+    p_image: string;
+    p_price: string;
+    p_state: number;
+    p_title: string;
+    pid: number;
+    price: number;
+    user_type: string;
+  };
+  type: number;
+  uid: number;
+};
+
+export type InboxThreadMessageAddEventAIData = {
+  b_online: BooleanNumber;
+  command: string;
+  from_type: number;
+  isread: BooleanNumber;
+  msg: string;
+  receiver_block: BooleanNumber;
+  receiver_delete: BooleanNumber;
+  receiver_id: number;
+  s_online: BooleanNumber;
+  sender_block: BooleanNumber;
+  sender_delete: BooleanNumber;
+  sender_id: number;
+  thread_id: number;
+  message_id: number;
+};

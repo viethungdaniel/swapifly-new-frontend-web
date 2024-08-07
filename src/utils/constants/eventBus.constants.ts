@@ -1,0 +1,10 @@
+export const ALERT_DIALOG_FIRE = "alertService/FIRE_ALERT_DIALOG";
+export const ALERT_DIALOG_CLOSE = "alertService/ALERT_DIALOG_CLOSE";
+export const LOADING_SCREEN_OVERLAY_FIRE =
+  "loadingScreenOverlayService/LOADING_SCREEN_OVERLAY_FIRE";
+export const LOADING_SCREEN_OVERLAY_CLOSE =
+  "loadingScreenOverlayService/LOADING_SCREEN_OVERLAY_CLOSE";
+
+export const SIGN_IN_AND_SIGN_UP_DIALOG_OPEN = "auth/signInAndSignUpOpen";
+export const IMPRESSION_PACKAGE_ORDER_PAYMENT_STATUS_DIALOG_OPEN =
+  "impressionPackageOrder/IMPRESSION_PACKAGE_ORDER_PAYMENT_STATUS_DIALOG_OPEN";

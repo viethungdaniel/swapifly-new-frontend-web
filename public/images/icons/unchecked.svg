@@ -1,0 +1,8 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<style>
+  rect {
+    stroke: currentColor
+  }
+</style>
+<rect fill="none" x="2.55556" y="2.55556" width="18.8889" height="18.8889" rx="3.88889" stroke-width="1.11111"/>
+</svg>
